@@ -1,0 +1,7 @@
+$ apt update && apt upgrade
+$ pkg install python
+$ pkg install bash
+$ pkg install git
+$ https://github.com/Termoz7689/Spam
+$ cd Spam
+$ python Aziz.py
